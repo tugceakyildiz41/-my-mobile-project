@@ -21,4 +21,4 @@ Gelecekte eklenecek özellikler arasında şunlar planlanmaktadır:
 * Veri kalıcılığı (planların kaydedilmesi ve tekrar açıldığında görüntülenmesi).
 * Planları düzenleme ve silme imkanı.
 * Daha detaylı plan bilgileri (notlar, hatırlatıcılar vb.).
-* *Kullanıcıya girdiği saatler yaklaştığında bidirim gönderilmesi]
+* *Kullanıcıya girdiği saatler yaklaştığında bidirim gönderilmesi.
