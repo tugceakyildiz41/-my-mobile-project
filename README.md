@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-# flutter_test_app
+# Öğrenci Çalışma Planı Uygulaması
 
-A new Flutter project.
+Bu uygulama, öğrencilerin haftalık ders çalışma planlarını kolayca oluşturmalarına ve takip etmelerine yardımcı olmak için geliştirilmiştir.
 
-## Getting Started
+## Başlangıç
 
-This project is a starting point for a Flutter application.
+Bu bir Flutter projesidir. Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uygulama şu anda aşağıdaki temel özellikleri sunmaktadır:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# -my-mobile-project
->>>>>>> 02eb3eabee02d75f89012fb9502464c5c6766ef7
+* Kullanıcı giriş ve kayıt ekranları.
+* Haftanın günlerini listeleyen ana ekran.
+* Her gün için çalışma planı ekleme imkanı (saat aralığı ve ders bilgisi).
+* Eklenen planların ilgili günün altında görüntülenmesi.
+
+Gelecekte eklenecek özellikler arasında şunlar planlanmaktadır:
+
+* Kullanıcının hangi güne plan eklemek istediğini seçebilmesi.
+* Veri kalıcılığı (planların kaydedilmesi ve tekrar açıldığında görüntülenmesi).
+* Planları düzenleme ve silme imkanı.
+* Daha detaylı plan bilgileri (notlar, hatırlatıcılar vb.).
+* *Kullanıcıya girdiği saatler yaklaştığında bidirim gönderilmesi]
